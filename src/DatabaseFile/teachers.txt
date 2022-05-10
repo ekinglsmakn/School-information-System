@@ -1,0 +1,2 @@
+Teacher{department=Department{name='CompEng'}} Person{name='Bill', surname='GATES', id=1414, gender='Male'}
+Teacher{department=Department{name='History'}} Person{name='Gandalf', surname='AKIN', id=1313, gender='Male'}

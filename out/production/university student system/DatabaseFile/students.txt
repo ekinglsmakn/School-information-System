@@ -1,0 +1,2 @@
+Student{department=Department{name='CompEng'}, number=1111, graduationGrade=3.69} Person{name='Ekin', surname='AKIN', id=1212, gender='Female'}
+Student{department=Department{name='Business'}, number=2222, graduationGrade=2.49} Person{name='John', surname='WICK', id=1313, gender='Male'}
