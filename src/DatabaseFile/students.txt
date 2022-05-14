@@ -1,0 +1,5 @@
+Student{department=Department{name='CompEng'}, number=1010, graduationGrade=3.49} Person{name='Ekin', surname='AKIN', id=1212, gender='Female'}
+Student{department=Department{name='CatScience'}, number=2020, graduationGrade=4.0} Person{name='Gandalf', surname='KEDIGILLER', id=2222, gender='Male'}
+Student{department=Department{name='Business'}, number=4585, graduationGrade=2.56} Person{name='John', surname='WICK', id=1313, gender='Male'}
+Student{department=Department{name='History'}, number=8695, graduationGrade=3.23} Person{name='Fiona', surname='GALLER', id=4563, gender='Female'}
+Student{department=Department{name='Biology'}, number=6315, graduationGrade=2.21} Person{name='David', surname='COLLER', id=152, gender='Male'}
