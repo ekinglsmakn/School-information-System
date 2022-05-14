@@ -1,2 +1,5 @@
-Teacher{department=Department{name='CompEng'}} Person{name='Bill', surname='GATES', id=1414, gender='Male'}
-Teacher{department=Department{name='History'}} Person{name='Gandalf', surname='AKIN', id=1313, gender='Male'}
+Teacher{department=Department{name='History'}} Person{name='Diana', surname='GARNER', id=1010, gender='Female'}
+Teacher{department=Department{name='CompScience'}} Person{name='Bill', surname='GATES', id=3030, gender='Male'}
+Teacher{department=Department{name='CompScience'}} Person{name='Jack', surname='DORSEY', id=6897, gender='Male'}
+Teacher{department=Department{name='CompEng'}} Person{name='Steve', surname='JOBS', id=5689, gender='Male'}
+Teacher{department=Department{name='Business'}} Person{name='Katy', surname='PARK', id=3232, gender='Female'}

@@ -1,10 +1,6 @@
 package Department;
 
-import Person.Person;
-
-import java.io.Serializable;
-
-public class Department implements Serializable {
+public class Department {
     private String name;  //department name
 
     public Department() {
@@ -22,11 +18,6 @@ public class Department implements Serializable {
     public void setName(String name) {
         this.name = name;
     }
-
-//    @Override
-//    public String toString() {
-//        return "," + name ;
-//    }
 
 
     @Override

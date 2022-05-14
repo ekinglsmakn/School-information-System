@@ -9,7 +9,12 @@ import java.util.regex.Pattern;
 public class Teacher extends Person {
     private Department department;
 
-    public Teacher(String name, String surname, long id, String gender, Department department) {
+
+    public Teacher(String name,
+                   String surname,
+                   long id,
+                   String gender,
+                   Department department) {
         super(name, surname, id, gender);
         this.department = department;
     }
@@ -78,8 +83,8 @@ public class Teacher extends Person {
     }
 
     public static Department getDepartmentFromString(String str) {
-        Pattern patterns = Pattern.compile("department=Department\\{name='([a-zA-Z0-9]+)'\\},");
-        Matcher matcher = patterns.matcher(str);
+        Pattern pattern = Pattern.compile("department=Department\\{name='([a-zA-Z0-9]+)'\\}\\}");
+        Matcher matcher = pattern.matcher(str);
         Department dept;
         if (matcher.find()) {
             dept = new Department(matcher.group(1));

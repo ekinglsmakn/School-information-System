@@ -1,2 +1,10 @@
-Student{department=Department{name='CompEng'}, number=1111, graduationGrade=3.69} Person{name='Ekin', surname='AKIN', id=1212, gender='Female'}
-Student{department=Department{name='Business'}, number=2222, graduationGrade=2.49} Person{name='John', surname='WICK', id=1313, gender='Male'}
+Student{department=Department{name='CatScience'}, number=2222, graduationGrade=4.0} Person{name='Gandalf', surname='KEDIGILLER', id=1313, gender='Male'}
+Student{department=Department{name='CompEng'}, number=1111, graduationGrade=3.49} Person{name='Ekin', surname='AKIN', id=1212, gender='Female'}
+Student{department=Department{name='History'}, number=3333, graduationGrade=3.0} Person{name='Bilbo', surname='BAGGINS', id=1414, gender='Male'}
+Student{department=Department{name='Business'}, number=4444, graduationGrade=3.56} Person{name='Hector', surname='LARSON', id=1515, gender='Male'}
+Student{department=Department{name='Law'}, number=5555, graduationGrade=2.78} Person{name='Linda', surname='FOSTER', id=1616, gender='Female'}
+Student{department=Department{name='CompScience'}, number=6666, graduationGrade=2.12} Person{name='Oliver', surname='GIBB', id=1717, gender='Male'}
+Student{department=Department{name='Biology'}, number=7777, graduationGrade=3.45} Person{name='John', surname='COLES', id=1818, gender='Male'}
+Student{department=Department{name='Biology'}, number=8888, graduationGrade=4.0} Person{name='Durkut', surname='AKIN', id=1919, gender='Male'}
+Student{department=Department{name='Education'}, number=2323, graduationGrade=4.0} Person{name='Kivilcim', surname='KANGAL', id=2020, gender='Female'}
+Student{department=Department{name='Health'}, number=2424, graduationGrade=2.36} Person{name='Sally', surname='HALL', id=2121, gender='Female'}

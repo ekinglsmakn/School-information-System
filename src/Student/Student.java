@@ -139,9 +139,7 @@ public class Student extends Person {
         return department;
     }
 
-    public void setDepartment(Department department) {
-        this.department = department;
-    }
+    public void setDepartment(Department department) { this.department = department; }
 
     public int getNumber() {
         return number;
